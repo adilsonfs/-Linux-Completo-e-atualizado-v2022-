@@ -1,3 +1,11 @@
+#Autor: Adilson Santos
+#Data de criação: 16/12/2021
+#Data de atualização: 16/12/2021
+Redes Social: https://www.linkedin.com/in/adilson-santos-263070226/
+#Versão: 0.01
+=================================================================================================================================
+
+
 # -Linux-Completo-e-atualizado-v2022-
 Domine o Linux - Redes, Segurança, Shell Script, Firewall, Samba, MySQL, Mongo, Docker, Git, Kubernetes, Apache... v2022
 
@@ -19,3 +27,4 @@ Docker no Linux!
 Versionamento de software com Git!
 Apache
 Kubernetes
+=====================================================================================================================================
